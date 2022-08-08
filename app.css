@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.cmp:hover{
+    color: yellow;
+}
+@tailwind utilities;
+
